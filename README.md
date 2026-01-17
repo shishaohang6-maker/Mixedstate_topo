@@ -46,7 +46,7 @@ Each data file is a text file with three columns:
 | 2      | DP second derivative at twisted angle π |
 | 3      | Error of the DP second derivative |
 
-These raw data can be used to generate the **mathematical F-matrix** (`\mathcal{F}`) and ΔLx plots in the paper.  
+These raw data can be used to generate the **topological indicator** (`\mathcal{F}`) and ΔLx plots in the paper.  
 
 
 
